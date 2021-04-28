@@ -1,0 +1,23 @@
+#p {
+    color: black;
+    font-size: 70px;
+    font-family: 'Jomhuria', cursive;
+}
+
+body {
+    text-align: center;
+    background-image: url("photo-1570475735025-6cd1cd5c779d.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+img {
+    width:500px;
+    height: 500px;
+    border-radius: 50%; 
+}
+#heading{
+    font-size: 70px;
+    color:cyan;
+}
